@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HomeWorkFirst</string>
+    <string name="simple_fragment_transition">image_small</string>
+</resources>
